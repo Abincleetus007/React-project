@@ -22,18 +22,20 @@ Welcome to **PIZZA's Pizzeria**, an online pizza ordering platform built with **
 
 ---
 
-## Installation
-
-Follow these steps to get the project up and running on your local machine:
-
-
-
 ## Live Demo
 https://capable-scone-1c7587.netlify.app/
 
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/d36e5b96-cf6a-482c-a4ce-40501c048cc6)
+
+## Installation
+
+Follow these steps to get the project up and running on your local machine:
+
+
+
+
 ### Steps
 
 1. Clone this repository:
